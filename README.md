@@ -1,6 +1,6 @@
 # HoloLearn
 
-<img width="1128" height="814" alt="Screenshot 2025-12-11 at 23 51 50" src="https://github.com/user-attachments/assets/f3b89248-e340-4e2a-a77d-b1e238920195" />
+<img width="1128" height="814" alt="screenshot" src="https://github.com/user-attachments/assets/f3b89248-e340-4e2a-a77d-b1e238920195" />
 
 View the app in Google AI Studio: https://ai.studio/apps/drive/1DUup9uclqP3UXyWqPKYwIFX1rDubXg_m
 
